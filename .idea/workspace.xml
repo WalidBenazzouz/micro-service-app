@@ -4,65 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f982baec-a173-4b57-adba-233474069485" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/benazzouz/walid/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/billing-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/billing-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/billing-service/src/main/java/net/youssfi/billingservice/BillingServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/billing-service/src/main/java/net/benazzouz/walid/billingservice/BillingServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/billing-service/src/main/java/net/youssfi/billingservice/entities/Bill.java" beforeDir="false" afterPath="$PROJECT_DIR$/billing-service/src/main/java/net/benazzouz/walid/billingservice/entities/Bill.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/billing-service/src/main/java/net/youssfi/billingservice/entities/ProductItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/billing-service/src/main/java/net/benazzouz/walid/billingservice/entities/ProductItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/billing-service/src/main/java/net/youssfi/billingservice/feign/CustomerRestClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/billing-service/src/main/java/net/benazzouz/walid/billingservice/feign/CustomerRestClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/billing-service/src/main/java/net/youssfi/billingservice/feign/ProductRestClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/billing-service/src/main/java/net/benazzouz/walid/billingservice/feign/ProductRestClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/billing-service/src/main/java/net/youssfi/billingservice/model/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/billing-service/src/main/java/net/benazzouz/walid/billingservice/model/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/billing-service/src/main/java/net/youssfi/billingservice/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/billing-service/src/main/java/net/benazzouz/walid/billingservice/model/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/billing-service/src/main/java/net/youssfi/billingservice/repository/BillRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/billing-service/src/main/java/net/benazzouz/walid/billingservice/repository/BillRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/billing-service/src/main/java/net/youssfi/billingservice/repository/ProductItemRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/billing-service/src/main/java/net/benazzouz/walid/billingservice/repository/ProductItemRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/billing-service/src/main/java/net/youssfi/billingservice/web/BillRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/billing-service/src/main/java/net/benazzouz/walid/billingservice/web/BillRestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/billing-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/billing-service/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/billing-service/src/test/java/net/youssfi/billingservice/BillingServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/billing-service/src/test/java/net/benazzouz/walid/billingservice/BillingServiceApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-repo/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config-repo/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-repo/billing-service-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config-repo/billing-service-dev.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-repo/billing-service-prod.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config-repo/billing-service-prod.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-repo/customer-service-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config-repo/customer-service-dev.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-repo/customer-service-prod.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config-repo/customer-service-prod.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-repo/customer-service.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config-repo/customer-service.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-repo/inventory-service-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config-repo/inventory-service-dev.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-repo/inventory-service-prod.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config-repo/inventory-service-prod.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-repo/inventory-service.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config-repo/inventory-service.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/config-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-service/src/main/java/net/youssfi/configservice/ConfigServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/config-service/src/main/java/net/benazzouz/walid/configservice/ConfigServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-service/src/test/java/net/youssfi/configservice/ConfigServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/config-service/src/test/java/net/benazzouz/walid/configservice/ConfigServiceApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/src/main/java/net/youssfi/customerservice/CustomerServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/src/main/java/net/benazzouz/walid/customerservice/CustomerServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/src/main/java/net/youssfi/customerservice/config/ConfigTestRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/src/main/java/net/benazzouz/walid/customerservice/config/ConfigTestRestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/src/main/java/net/youssfi/customerservice/config/CustomerConfigParams.java" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/src/main/java/net/benazzouz/walid/customerservice/config/CustomerConfigParams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/src/main/java/net/youssfi/customerservice/config/RestRepositoryConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/src/main/java/net/benazzouz/walid/customerservice/config/RestRepositoryConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/src/main/java/net/youssfi/customerservice/entities/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/src/main/java/net/benazzouz/walid/customerservice/entities/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/src/main/java/net/youssfi/customerservice/entities/CustomerProjection.java" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/src/main/java/net/benazzouz/walid/customerservice/entities/CustomerProjection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/src/main/java/net/youssfi/customerservice/entities/CustomerProjectionEmail.java" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/src/main/java/net/benazzouz/walid/customerservice/entities/CustomerProjectionEmail.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/src/main/java/net/youssfi/customerservice/repository/CustomerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/src/main/java/net/benazzouz/walid/customerservice/repository/CustomerRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/src/test/java/net/youssfi/customerservice/CustomerServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/src/test/java/net/benazzouz/walid/customerservice/CustomerServiceApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/discovery-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/discovery-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/discovery-service/src/main/java/net/youssfi/discoveryservice/DiscoveryServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/discovery-service/src/main/java/net/benazzouz/walid/discoveryservice/DiscoveryServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/discovery-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/discovery-service/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/discovery-service/src/test/java/net/youssfi/discoveryservice/DiscoveryServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/discovery-service/src/test/java/net/benazzouz/walid/discoveryservice/DiscoveryServiceApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatewey-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gatewey-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatewey-service/src/main/java/net/youssfi/gateweyservice/GateweyServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/gatewey-service/src/main/java/net/benazzouz/walid/gateweyservice/GateweyServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatewey-service/src/test/java/net/youssfi/gateweyservice/GateweyServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/gatewey-service/src/test/java/net/benazzouz/walid/gateweyservice/GateweyServiceApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory-service/src/main/java/net/youssfi/inventoryservice/InventoryServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/src/main/java/net/benazzouz/walid/inventoryservice/InventoryServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory-service/src/main/java/net/youssfi/inventoryservice/config/RestRepositoryConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/src/main/java/net/benazzouz/walid/inventoryservice/config/RestRepositoryConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory-service/src/main/java/net/youssfi/inventoryservice/entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/src/main/java/net/benazzouz/walid/inventoryservice/entities/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory-service/src/main/java/net/youssfi/inventoryservice/repository/ProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/src/main/java/net/benazzouz/walid/inventoryservice/repository/ProductRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory-service/src/test/java/net/youssfi/inventoryservice/InventoryServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/src/test/java/net/benazzouz/walid/inventoryservice/InventoryServiceApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/net/youssfi/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/youssfi/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="f982baec-a173-4b57-adba-233474069485" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,7 +43,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "Spring Boot.BillingServiceApplication.executor": "Run",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Asus ROG/Documents/Emsi/5iir/Mohammed Youssfi J2E/micro-services-app/micro-service-app",
@@ -183,7 +125,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1764261300653</updated>
-      <workItem from="1764261302148" duration="310000" />
+      <workItem from="1764261302148" duration="697000" />
     </task>
     <servers />
   </component>
